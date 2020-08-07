@@ -28,8 +28,8 @@
 
 1. Overview of the data
 2. Missing data for various features
-  2.1 Basic stats for the feature: product_type_name
-  2.2 Basic stats for the feature: brand
+ 2.1 Basic stats for the feature: product_type_name
+ 2.2 Basic stats for the feature: brand
   2.3 Basic stats for the feature: color
   2.4 Basic stats for the feature: formatted_price
   2.5 Basic stats for the feature: title
@@ -47,3 +47,9 @@
   6.3 Weighted similarity using Brand and Color
   
 ## A glimpse of the Recommendation Engine
+
+![recommendation_1](https://user-images.githubusercontent.com/68144553/89631864-fee49300-d8be-11ea-988f-32ec4e318918.JPG)
+![recommendation_2](https://user-images.githubusercontent.com/68144553/89631872-00ae5680-d8bf-11ea-8e4b-ae2492eb5650.JPG)
+![recommendation_3](https://user-images.githubusercontent.com/68144553/89631876-0146ed00-d8bf-11ea-8b8b-e8ba4df5d4e9.JPG)
+![recommendation_4](https://user-images.githubusercontent.com/68144553/89631882-02781a00-d8bf-11ea-894c-609e48abbc17.JPG)
+![recommendation_5](https://user-images.githubusercontent.com/68144553/89631887-0310b080-d8bf-11ea-88df-7d353b7879be.JPG)
