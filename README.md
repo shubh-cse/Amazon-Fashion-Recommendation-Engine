@@ -28,23 +28,23 @@
 
 - Overview of the data
 - Missing data for various features
--- Basic stats for the feature: product_type_name
--- Basic stats for the feature: brand
--- Basic stats for the feature: color
--- Basic stats for the feature: formatted_price
--- Basic stats for the feature: title
+- Basic stats for the feature: product_type_name
+- Basic stats for the feature: brand
+- Basic stats for the feature: color
+- Basic stats for the feature: formatted_price
+- Basic stats for the feature: title
 - Remove near duplicate items
--- Understand about duplicates
--- Remove duplicates
-4. Text pre-processing
-5. Text based product similarity
-  - Bag of Words (BoW) on product titles
-  - TF-IDF based product similarity
-  - IDF based product similarity
-6. Text Semantics based product similarity
-6.1 Average Word2Vec product similarity
-6.2 IDF weighted Word2Vec for product similarity
-6.3 Weighted similarity using Brand and Color
+- Understand about duplicates
+- Remove duplicates
+- Text pre-processing
+- Text based product similarity
+- Bag of Words (BoW) on product titles
+- TF-IDF based product similarity
+- IDF based product similarity
+- Text Semantics based product similarity
+- Average Word2Vec product similarity
+- IDF weighted Word2Vec for product similarity
+- Weighted similarity using Brand and Color
   
 ## A glimpse of the Recommendation Engine
 
